@@ -11,6 +11,8 @@
 -  Believer in practical learning and edutainment.
 -  Currently learning everything which is interesting. 🤣
 
+> **NUFF SAID**
+
 <h3><font color="#008AFC">Connect with me!</font></h3>
 
 [<img align="left" alt="Siddardha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
