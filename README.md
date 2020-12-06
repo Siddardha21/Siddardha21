@@ -7,7 +7,7 @@
 
 -  Pursuing Computer Science and Engineering @ IFHE Hyderabad.
 -  Doing projects on Blockchain, ML, R, MERN, ETL.
--  Hopes of becoming a Solopreneur
+-  Hopes of becoming a `Solopreneur`
 -  Believer in practical learning and edutainment.
 -  Currently learning everything which is interesting. 🤣
 
@@ -49,6 +49,10 @@
 
 ---
 
+>Little Things Make Big Days
+
+---
+
 ### > Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -67,12 +71,12 @@
   <summary>Recent Projects</summary>
   
 <!--START_SECTION:activity-->
-1. Online Shopping Website with two payment gateways (in progress....) 
+1. Online Shopping Website with two payment gateways `in progress....` 
 2. Built a Table Reservation Website with Bootstrap 4.
-3. ETL with Talend, Informatica, and Pentaho (in progress....)
-4. Created a custom Token (LSToken) & a Voting Decentralized Application (working on the front end).
+3. ETL with Talend, Informatica, and Pentaho `in progress....`
+4. Created a custom Token (LSToken) & a Voting Decentralized Application. `still working on the front end`
 5. IOT Blockchain Network for Supply Chain. 
-6. Watson Assistant (in progress....)
+6. Watson Assistant `in progress....`
 <!--END_SECTION:activity-->
 
 </details>
