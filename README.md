@@ -1,4 +1,4 @@
-<h1> Hello there!, I'm Siddardha </h1>
+<h1> Hello there! I'm Siddardha </h1>
 
 [![Website](https://img.shields.io/website?label=TwentiesThoughts.com&style=for-the-badge&url=https%3A%2F%2Ftwentiesthoughts.com)](https://twentiesthoughts.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sidddardha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSiddardha21&screen_name=Siddardha)
@@ -9,7 +9,7 @@
 -  Doing projects on Blockchain, ML, R, MERN, ETL.
 -  Hopes of becoming a Solopreneur
 -  Believer in practical learning and edutainment.
--  Currently learning everything. 🤣
+-  Currently learning everything which is interesting. 🤣
 
 <h3><font color="#008AFC">Connect with me!</font></h3>
 
