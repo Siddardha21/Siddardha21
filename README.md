@@ -1,9 +1,9 @@
-## Hello there!, I'm Siddardha
+<h1> Hello there!, I'm Siddardha </h1>
 
 [![Website](https://img.shields.io/website?label=TwentiesThoughts.com&style=for-the-badge&url=https%3A%2F%2Ftwentiesthoughts.com)](https://twentiesthoughts.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sidddardha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSiddardha21&screen_name=Siddardha)
 
-### Student | Developer | Freelancer!
+### Student | Developer 
 
 -  Pursuing Computer Science and Engineering @ IFHE Hyderabad.
 -  Doing projects on Blockchain, ML, R, MERN, ETL.
@@ -11,16 +11,12 @@
 -  Believer in practical learning and edutainment.
 -  Currently learning everything. 🤣
 
-### Spotify Fav.
+<h3><font color="#008AFC">Connect with me!</font></h3>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/1jbLkcfE9VrWI3wCZaZU61?si=0SLRKlWBTp6Xb1xhmYIlqg) 
-
-### Connect with me:
-
-[<img align="left" alt="TwentiesThoughts.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Sidddardha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Siddardha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sidddardha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Invertedlook | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="TwentiesThoughts.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
@@ -39,8 +35,17 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
 <br />
+
+---
+<h3><font color="#1DB954">Spotify Fav.</font></h3>
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Siddardha21 Spotify Playing" width="350" />](https://open.spotify.com/track/1jbLkcfE9VrWI3wCZaZU61?si=0SLRKlWBTp6Xb1xhmYIlqg) 
 
 ---
 
