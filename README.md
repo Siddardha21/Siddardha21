@@ -51,10 +51,6 @@
 
 ---
 
->Little Things Make Big Days
-
----
-
 ### > Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -82,6 +78,10 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+---
+>Little Things Make Big Days
+
 
 
 
