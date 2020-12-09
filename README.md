@@ -1,7 +1,6 @@
 <h1> Hello there! I'm Siddardha </h1>
 
 [![Website](https://img.shields.io/website?label=TwentiesThoughts.com&style=for-the-badge&url=https%3A%2F%2Ftwentiesthoughts.com)](https://twentiesthoughts.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Sidddardha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSiddardha21&screen_name=Siddardha)
 
 ### Student | Developer 
 
@@ -45,23 +44,21 @@
 <br />
 
 ---
-<h3><font color="#1DB954">Spotify Fav.</font></h3>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Siddardha21 Spotify Playing" width="350" />](https://open.spotify.com/track/1jbLkcfE9VrWI3wCZaZU61?si=0SLRKlWBTp6Xb1xhmYIlqg) 
+<details>
+  <summary>Recent Blog Posts</summary>
 
----
-
-### > Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
+<!--START_SECTION:activity-->
 - [The Interview](https://www.twentiesthoughts.com/post/the-interview)
 - [Soviet's Buran Program](https://www.twentiesthoughts.com/post/the-soviet-s-buran-program)
 - [Blockchain Network for Supply Chain](https://www.twentiesthoughts.com/post/blockchain-network-for-supply-chain)
 - [How to by-pass the JavaScript's Two-factor authentication](https://www.twentiesthoughts.com/post/can-you-bypass-the-javascript-s-two-factor-authentication)
 - [Bug Bounty Programs and Hackathons](https://www.twentiesthoughts.com/post/bug-bounty-programs-hackathons)
-<!-- BLOG-POST-LIST:END -->
+<!--END_SECTION:activity-->
 
 -> [More Posts....](https://www.twentiesthoughts.com/)
+
+</details>
 
 ---
 
