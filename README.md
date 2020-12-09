@@ -46,6 +46,22 @@
 ---
 
 <details>
+  <summary>Recent Projects</summary>
+  
+<!--START_SECTION:activity-->
+1. Online Shopping Website with two payment gateways `in progress....` 
+2. Built a Table Reservation Website with Bootstrap 4.
+3. ETL with Talend, Informatica, and Pentaho `in progress....`
+4. Created a custom Token (LSToken) & a Voting Decentralized Application. `still working on the front end`
+5. IOT Blockchain Network for Supply Chain. 
+6. Watson Assistant `in progress....`
+<!--END_SECTION:activity-->
+
+</details>
+
+---
+
+<details>
   <summary>Recent Blog Posts</summary>
 
 <!--START_SECTION:activity-->
@@ -62,21 +78,6 @@
 
 ---
 
-<details>
-  <summary>Recent Projects</summary>
-  
-<!--START_SECTION:activity-->
-1. Online Shopping Website with two payment gateways `in progress....` 
-2. Built a Table Reservation Website with Bootstrap 4.
-3. ETL with Talend, Informatica, and Pentaho `in progress....`
-4. Created a custom Token (LSToken) & a Voting Decentralized Application. `still working on the front end`
-5. IOT Blockchain Network for Supply Chain. 
-6. Watson Assistant `in progress....`
-<!--END_SECTION:activity-->
-
-</details>
-
----
 
 ![upload](https://user-images.githubusercontent.com/59073066/101282428-1e52e480-37fb-11eb-88f1-62a9c3a114da.png)
 
