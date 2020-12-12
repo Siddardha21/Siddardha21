@@ -78,11 +78,6 @@
 
 ---
 
-
-![upload](https://user-images.githubusercontent.com/59073066/101282428-1e52e480-37fb-11eb-88f1-62a9c3a114da.png)
-
----
-
 >Little Things Make Big Days
 
 ---
