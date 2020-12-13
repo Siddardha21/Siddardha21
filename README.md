@@ -12,7 +12,7 @@
 
 > **NUFF SAID**
 
-<h3><font color="#008AFC">Connect with me!</font></h3>
+<h3><font color="#008AFC">Wanna Connect?</font></h3>
 
 [<img align="left" alt="Siddardha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sidddardha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -54,7 +54,7 @@
 3. ETL with Talend, Informatica, and Pentaho `in progress....`
 4. Created a custom Token (LSToken) & a Voting Decentralized Application. `still working on the front end`
 5. IOT Blockchain Network for Supply Chain. 
-6. Watson Assistant `in progress....`
+6. Watson Assistant for FAQ's`in progress....`
 <!--END_SECTION:activity-->
 
 </details>
