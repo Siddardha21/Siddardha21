@@ -1,6 +1,7 @@
-<h4>Developer, Designer, Photographer, Narrative genius....doing none of them well enough to commit. <br></br><br></br>Solving real world problems like my To-do-list, which has made me jack of all trades and the master of none. But hey i have a masters degree in "Actually Finishing Projects". With also a Degree in advanced procrastination and last minute all-nighters.</h4>
-<br></br>
-<h4>What I meant to say was I am a....
+<h2>Developer, Designer, Photographer, Narrative genius....doing none of them well enough to commit. <br></br>
+Solving real world problems like my To-do-list, which has made me jack of all trades and the master of none. But hey i have a masters degree in "Actually Finishing Projects". With also a Degree in advanced procrastination and last minute all-nighters.</h2>
+
+<h4>What I meant to say was I am a....</h4>
 
 - 👨‍💻 Java Full Stack Developer | An enthusiast driven by curiosity and interest in a wide range of tech fields.
 
